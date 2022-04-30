@@ -1,0 +1,1 @@
+![Semaphore CI build badge](https://birintsev.semaphoreci.com/badges/elephant/branches/dev.svg?style=shields)
