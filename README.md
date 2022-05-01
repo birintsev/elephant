@@ -1,1 +1,2 @@
 ![Semaphore CI build badge](https://birintsev.semaphoreci.com/badges/elephant/branches/dev.svg?style=shields)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/60854d8128854b0db46981d989f177e6)](https://www.codacy.com/gh/birintsev/elephant/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=birintsev/elephant&amp;utm_campaign=Badge_Grade)
